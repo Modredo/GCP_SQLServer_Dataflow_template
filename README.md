@@ -59,7 +59,7 @@ Steps:
 		create login
 		check server accepts sql login 
 		
-		(script?) 
+		Script: https://github.com/Modredo/GCP_SQLServer_Dataflow_template/blob/master/script.sql 
 	
 	By default you should see that the SSMS is giving you and option of connecting to SQL via Windows Authentication. Click Connect. 
 		I have created a database 'mssqltogcp'
